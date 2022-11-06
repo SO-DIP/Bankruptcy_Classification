@@ -1,2 +1,2 @@
 # Bankruptcy_Classification
-Based on several model we are doing classification whether the org is going to go bankrupt or not
+Based on several Machine learning and deep learning models we are classifying the dataset, the classification is of Bankruptcy.
