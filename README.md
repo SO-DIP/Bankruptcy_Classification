@@ -21,7 +21,7 @@ creating best model to predict whether a company is gonna go bankrupt or not and
  ' Liability to Equity', based on Logistic regression.
  
  
- 2. the unwanted features are ' Net Value Growth Rate', ' Quick Ratio', ' Fixed Assets to Assets'
+2. the unwanted features are ' Net Value Growth Rate', ' Quick Ratio', ' Fixed Assets to Assets'
 
 
  3.the best model accuracy was given by  Artificial Neural Network which is 88.9%.
