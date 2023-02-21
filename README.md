@@ -9,6 +9,8 @@ creating best model to predict whether a company is gonna go bankrupt or not and
 
 
 **Findings**
+
+
 1.using Rfe we see the best 5 features which will affct the dataset is 
 
 
